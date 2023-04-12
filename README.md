@@ -1,3 +1,13 @@
-# JumpAndRunGame
+# Jump And Run Game
 
-Kadir Akyaman - Tarihin Ortanca Çocukları Ödevi
+Proje Karabük Üniversitesi tarafından verilen oyun eğitimi kapsamında Tarihin Ortanca Çocukları takımının vermiş olduğu ödevdir.
+
+# Projede Hangi Konular Üzerine Çalıştım?
+
+Bu projeyi geliştirirken;
+
+Karakter ve Çevre Elemanlarının Animasyonları
+Karakter Kontrolleri
+Kullanıcı Arayüzü 
+konuları üzerinde çalışmalar yaptım.
+
